@@ -1,0 +1,26 @@
+Materi yang dipelajari hari ini :
+
+A.BACKEND
+1.Internet adalah sebuah sistem komunikasi global yang menghubungkan komputer-komputer dan jaringan-jaringan komputer diseluruh dunia.
+
+a. How does the internet work? (Bagaimana internet bekerja ?)
+Memanfaatkan alamat IP yang berguna sebagai penghubung antara server-server diseluruh dunia.
+
+b. What is HTTP? (Apa itu HTTP ?)
+HTTP (Hypertext Transfer Protocol) adalah Protocol pada lapisan aplikasi untuk sistem informasi hyper media yang terdistribusi dan kolaboratif.
+
+c. Browser and how they work (Browser dan cara kerjanya.)
+Browser adalah suatu perangkat lunak atau software yang digunakan untuk mencari informasi atau mengakses situs-situs yang ada dalam internet.
+Perangkat ini akan lebih memudahkan pengguna dalam mengakses data/mencari referensi yang dibutuhkan.
+
+d. DNS and how it work (DNS dan bagaimana cara kerjanya.)
+Sistem DNS bekerja seperti buku telepon dengan mengelola pemetaan antara nama dan nomor.Server DNS menerjemahkan permintaan nama menjadi alamat IP, mengontrol server mana yang akan dijangkau pengguna akhir saat mereka menghentikan nama domain ke browser web mereka.
+
+e. What is Domain Name? (Apa itu Nama Domain ?)
+Domain name adalah alamat unit dan mudah diingat yang digunakan untuk mengakses situs web, seperti google.com dan facebook.com.Pengguna dapat terhubung ke situs web menggunakan nama domain berkat sistem DNS.
+
+f. What is hosting? (Apa itu Hosting ?)
+Hosting adalah layanan online yang memungkinkan anda mempublikasikan file situs web Anda ke internet, serta mengatur siapa saja yang dapat mengakses file anda.
+Contohnya saat dipublikasikan secara umum sehingga dapat dijangkau oleh semua orang.
+
+
